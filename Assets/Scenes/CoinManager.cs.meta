@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 895434e3b727bbe42b997f2caa21334e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CoinsText: {instanceID: 0}
+  - TextButton: {instanceID: 0}
+  - TextUpgrade: {instanceID: 0}
+  - AutoText: {instanceID: 0}
+  - AutoTime: {instanceID: 0}
+  - UpgradeButtonImage: {instanceID: 0}
+  - NormalSprite: {fileID: -8799210066448710845, guid: 57d17659e369bc1418e593924d1621a5, type: 3}
+  - ActiveSprite: {fileID: -3655616399594119759, guid: 466bb41e3e34d684eb2d6ad51388719a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
